@@ -9,7 +9,7 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
-
+}
 
 section {
   margin: 0 auto;
@@ -32,7 +32,7 @@ h3 {
 }
 
 h3.header {
-  background-color: #BF5D3F;
+  background-color: #c9249d;
   }
 
 .element {
