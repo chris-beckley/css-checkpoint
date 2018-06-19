@@ -31,6 +31,10 @@ h3 {
   font-size: 1.3em;
 }
 
+h3.header {
+  background-color: #BF5D3F;
+  }
+
 .element {
   background-color: green;
   height: 100px;
