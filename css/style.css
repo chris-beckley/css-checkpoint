@@ -31,9 +31,13 @@ h3 {
   font-size: 1.3em;
 }
 
-.header {
+.last-three {
   background-color: #c9249d;
+  height: 100px;
+  margin: 0;
+  width: 100%;
   }
+
 
 .element {
   background-color: green;
